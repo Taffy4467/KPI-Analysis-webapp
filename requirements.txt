@@ -6,4 +6,5 @@ PyMySQL
 requests
 streamlit
 streamlit_option_menu
+streamlit_lottie
 
