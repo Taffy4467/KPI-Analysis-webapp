@@ -5,6 +5,6 @@ plotly
 PyMySQL
 requests
 streamlit
-streamlit_lottie
+streamlit_lottie==0.0.4
 streamlit_option_menu
 
